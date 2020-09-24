@@ -1,0 +1,4 @@
+include ':utils'
+include ':literal_encryption'
+include ':app'
+rootProject.name = "My Application"
